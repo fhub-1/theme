@@ -1,0 +1,21 @@
+{
+  "name": "learn-with-joseph",
+  "displayName": "learn-with-joseph",
+  "description": "Next.js 13 Eye-friendly Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Next 13 Eye-friendly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Next 13 Eye-friendly-color-theme.json"
+      }
+    ]
+  }
+}
